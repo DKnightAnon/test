@@ -52,5 +52,6 @@ public class Main {
                 + huidigeSpeler.getNaam() +
                 ": "
                 + huidigeSpeler.getScore());
+                //comment for github tracking
     }
 }
